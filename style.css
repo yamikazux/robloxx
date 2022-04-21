@@ -1,0 +1,43 @@
+.seksyen1 {
+    background-color: rgb(53, 48, 48);
+    text-align: center;
+}
+.tulisanPutih{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.heading-sewa {
+    font-size: 30px;
+    color: rgba(255, 249, 249, 0.866);
+}
+.seksyen2 {
+    background-color: rgb(165, 46, 46);
+    text-align: center;
+}
+.card-rounded {
+    background-color: rgb(53, 48, 48);
+}
+.gambar2 {
+    background-color: rgb(53, 48, 48);
+}
+.ikon {
+    color: rgb(184, 189, 192);
+}
+.contact {
+    background-color: rgb(53, 48, 48);
+    padding: 5% 25% 5%;
+    text-align: left;
+    color: aliceblue;
+}
+.seksyen4 {
+    text-align: center;
+}
+
+.abc {
+    text-align: center;
+}
+.footer {
+    background-color: rgb(53, 48, 48);
+    padding: 2%;
+    text-align: center;
+}
